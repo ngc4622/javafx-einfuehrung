@@ -29,6 +29,13 @@ Tastatureingaben frei im Fenster bewegen:
   * S: bewegt das Strichmaennchen nach rechts
   * D: bewegt das Strichmaennchen nach unten
 
+## Vorausgesetze Kenntnisse:
+
+Um den Quelltext zu verstehen sind Grundkenntnisse in Java erforderlich 
+(Klassen, abstrakte Klassen, Methoden, Konstruktoren, Zugriffsrechte, 
+bedingte Anweisungen). 
+Kenntnisse in JavaFX werden nicht vorausgesetzt. Hierzu finden sich 
+Erlaeuterungen in den Kommentaren.
 
 ## Weiterfuehrende Ressourcen:
 
